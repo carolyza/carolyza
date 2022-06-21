@@ -16,6 +16,13 @@ Soft Skills: problem resolutions, leadership, group dinamics, project management
 
 ◾ Fun fact: I have a bachelor's degree in Drama 🎭
 
+## Estatísticas 📊
+<div align="center">
+  <a href="https://github.com/carolyza"></a>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=carolyza&show_icons=true&theme=jolly&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carolyza&layout=compact&langs_count=16&theme=jolly"/> <br>
+</div>
+
 ## Languages and Tools 🛠
 
 <div align="center">
@@ -34,13 +41,6 @@ Soft Skills: problem resolutions, leadership, group dinamics, project management
   <img src="https://img.shields.io/badge/-Heroku-&?style=for-the-badge&logo=heroku&color=black&logoColor=79589F" alt="Heroku logo" />
   <img src="https://img.shields.io/badge/-Vercel-&?style=for-the-badge&logo=vercel&color=black" alt="Vercel logo" />
   <img src="https://img.shields.io/badge/-VSCode-&?style=for-the-badge&logo=visualstudiocode&color=black&logoColor=0076C6" alt="Visual studio code logo" />
-</div>
-
-## Estatísticas 📊
-<div align="center">
-  <a href="https://github.com/carolyza"></a>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=carolyza&show_icons=true&theme=jolly&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carolyza&layout=compact&langs_count=16&theme=jolly"/> <br>
 </div>
 
 ## Contact me 📫
