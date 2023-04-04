@@ -1,14 +1,14 @@
 ## The Art of Coding ✨ 
 
-Web Developer Full-Stack driven by creativity and the desire to create, passionate about technology and people. Being able to meet different people and make their vision reality in the most creative and precise way is what made me fall in love with coding.
+Web and Mobile Developer Full-Stack driven by creativity and the desire to create, passionate about technology and people. Being able to meet different people and make their vision reality in the most creative and precise way is what made me fall in love with coding.
 
 ◾ Pronouns: She/Her 😀
 
-◾ Front: HTML, CSS, JavaScript and React
+◾ Front: HTML, CSS, JavaScript, React and React Native
 
 Back: NodeJS, SQL, Prisma, Express, Docker, AWS, CI/CD, Redis and Typescript
 
-Cypress, Integration tests and Unitary Tests.
+Cypress, Detox, Integration tests and Unitary Tests.
 
 Team work: Slack, Zoom, Meet, Trello, Pair Programming, Code Review Git e GitHub, Scrum, Kanban and User Stories.
 
